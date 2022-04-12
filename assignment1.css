@@ -1,0 +1,74 @@
+body {
+font-family: Arial;
+background-color: #4912f6
+}
+.logo {
+	margin: 10px 10px 10px 10px;
+	display: flex;
+	align-items: center;
+}
+
+.section-1 {
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 50px 50px 10px 40px;
+}
+
+input[type = 'button'] {
+	border-radius: 25px;
+	border = 0px;
+	padding: 15px 30px;
+	font-weight: bold;
+}
+
+a:visited {
+	color: white;
+}
+
+.headline {
+	flex: 0 0 450px;
+	color: white;
+    margin-right: -50px;
+    margin-top: 45px;
+}
+
+.headline-1 {
+	font-family: Arial;
+	font-size: 26;
+	
+}
+
+.headline-2 {
+	font-family: Arial;
+	font-size: 36;
+	font-weight: bold;
+}
+
+.picture-1 {
+	flex: 0 1 750px;
+}
+
+.section-2-text {
+	color: white;
+	justify-content: center;
+	padding-bottom: 100px;
+}
+
+.section-3 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.section-3-left {
+	color: white;
+	flex: 0 1 500px;
+
+}
+
+.section-3-right {
+	color: white;
+	flex: 0 1 500px;
+}
